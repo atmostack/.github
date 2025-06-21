@@ -56,10 +56,9 @@ Documentation, guides, and tutorials coming soon!
 
 ## 📬 Contact Us
 
-- 💬 [hello@atmostack.com](mailto:hello@atmostack.com)
-- 🌐 [www.atmostack.com](https://www.atmostack.com)
-- 🐦 X: [@atmostack](https://x.com/atmostack)
-- 💼 LinkedIn: [Atmostack](https://www.linkedin.com/company/atmostack)
+- [hello@atmostack.com](mailto:hello@atmostack.com)
+- [www.atmostack.com](https://www.atmostack.com)
+- X: [@atmostack](https://x.com/atmostack)
 
 ---
 
